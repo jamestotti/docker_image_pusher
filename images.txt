@@ -6,7 +6,6 @@ rocketmqinc/rocketmq
 ghcr.io/home-assistant/home-assistant:stable
 homeassistant/home-assistant
 zookeeper
-elasticsearch
 nginx
 mysql
 grafana/grafana

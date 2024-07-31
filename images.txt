@@ -8,6 +8,4 @@ homeassistant/home-assistant
 mysql:8.4
 zookeeper
 nginx
-mysql
 grafana/grafana
-jiayin/mysqld-exporter
